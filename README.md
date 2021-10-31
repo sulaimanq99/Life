@@ -1,3 +1,3 @@
-# game_of_life
+# Life
 Main file is main.py in venv
 Program that runs 'Life'
